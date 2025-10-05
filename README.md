@@ -10,7 +10,7 @@
 - 🌱 Ich lerne aktuell **Cloud-Architekturen und AI/ML**
 - 👯 Ich suche nach Zusammenarbeit bei **innovativen Web-Anwendungen**
 - 💬 Frag mich über **JavaScript, Python, React, Node.js**
-- 📫 Erreiche mich: **deine.email@example.com**
+- 📫 Erreiche mich: **mattifed@gmx.de**
 - ⚡ Fun fact: **Ich löse lieber Bugs als Puzzles**
 
 ## 🛠️ Tech Stack
@@ -26,10 +26,7 @@
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -77,7 +74,7 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deine.email@example.com)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1090873475654242374) 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mattifed@gmx.de)
 
 </div>
