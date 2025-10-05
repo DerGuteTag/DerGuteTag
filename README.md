@@ -64,16 +64,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DerGuteTag&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
-## 💼 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/DerGuteTag/projekt1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DerGuteTag&repo=projekt1&theme=radical&hide_border=true&bg_color=0D1117" alt="Projekt 1" />
-  </a>
-  <a href="https://github.com/DerGuteTag/projekt2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DerGuteTag&repo=projekt2&theme=radical&hide_border=true&bg_color=0D1117" alt="Projekt 2" />
-  </a>
-</div>
+## 
 
 ## 🤝 Connect with Me
 
