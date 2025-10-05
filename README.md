@@ -42,34 +42,34 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DerGuteTag&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerGuteTag&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEIN_USERNAME&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DerGuteTag&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DEIN_USERNAME&theme=radical&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DerGuteTag&theme=radical&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEIN_USERNAME&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DerGuteTag&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ## 💼 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/DEIN_USERNAME/projekt1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DEIN_USERNAME&repo=projekt1&theme=radical&hide_border=true&bg_color=0D1117" alt="Projekt 1" />
+  <a href="https://github.com/DerGuteTag/projekt1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DerGuteTag&repo=projekt1&theme=radical&hide_border=true&bg_color=0D1117" alt="Projekt 1" />
   </a>
-  <a href="https://github.com/DEIN_USERNAME/projekt2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DEIN_USERNAME&repo=projekt2&theme=radical&hide_border=true&bg_color=0D1117" alt="Projekt 2" />
+  <a href="https://github.com/DerGuteTag/projekt2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DerGuteTag&repo=projekt2&theme=radical&hide_border=true&bg_color=0D1117" alt="Projekt 2" />
   </a>
 </div>
 
@@ -100,9 +100,7 @@
   ### 💭 Random Dev Quote
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
-  ### 😂 Random Dev Meme
-  <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-  
+
 </div>
 
 ---
