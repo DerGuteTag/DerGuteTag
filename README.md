@@ -11,7 +11,7 @@
 - 👯 Ich suche nach Zusammenarbeit bei **innovativen Web-Anwendungen**
 - 💬 Frag mich über **JavaScript, Python, React, Node.js**
 - 📫 Erreiche mich: **mattifed@gmx.de**
-- ⚡ Fun fact: **Ich löse lieber Bugs als Puzzles**
+- ⚡ Fun fact: **Ich vertraue meinem Code… meistens.**
 
 ## 🛠️ Tech Stack
 
