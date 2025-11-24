@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 - 🔭 Ich arbeite gerade an **spannenden Open-Source Projekten**
-- 🌱 Ich lerne aktuell **Cloud-Architekturen und Server-Architekturen**
+- 🌱 Ich lerne aktuell **C und C++, um größere Projekte anzufangen**
 - 👯 Ich suche nach Zusammenarbeit bei **innovativen Web-Anwendungen**
 - 💬 Frag mich über **JavaScript, Python, React, Node.js**
 - 📫 Erreiche mich: **mattifed@gmx.de**
